@@ -30,6 +30,7 @@ AI-industry-hotspots-YYYY-MM-DD.md
 | 日期 | 文件名 | 要点 |
 |------|--------|------|
 | 2026-11-10 | [AI-industry-hotspots-2026-11-10.md](./AI-industry-hotspots-2026-11-10.md) | Claude Fable 5.2/Mythos 5.2 发布；Meta Muse Ember 超低价智能体模型；PSI + Lean 证明 Aaronson–Ambainis 猜想；Anthropic IPO 路演启动 |
+| 2026-11-09 | [AI-industry-hotspots-2026-11-09.md](./AI-industry-hotspots-2026-11-09.md) | Anthropic Fable 5.2/Mythos 5.2 发布；OpenAI 收购 Pierre；Anthropic IPO 草案撤回；字节 Seedream 5.5；七巨头 260 亿配售 |
 | 2026-11-08 | [AI-industry-hotspots-2026-11-08.md](./AI-industry-hotspots-2026-11-08.md) | OpenAI $11B 首轮融资落地；GPT-6 Cyber Critical 级发布；Meta 收购 Conductor |
 | 2026-11-07 | [AI-industry-hotspots-2026-11-07.md](./AI-industry-hotspots-2026-11-07.md) | （待补充目录摘要） |
 
