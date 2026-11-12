@@ -26,6 +26,8 @@ AI-industry-hotspots-YYYY-MM-DD.md
 
 | 日期 | 文件名 | 当日瓜田摘要 |
 |------|--------|------|
+| 2026-11-12 | [AI-industry-hotspots-2026-11-12.md](./AI-industry-hotspots-2026-11-12.md) | 美国想把"远程用卡"也堵上；Google 发了个不会聊天的决策模型；Meta 把模型摆上 Google Cloud 货架；美联航不让 AI 代买机票 |
+| 2026-11-11 | [AI-industry-hotspots-2026-11-11.md](./AI-industry-hotspots-2026-11-11.md) | Anthropic IPO 定价 70–78 美元还被抢超；Google TPU 切机密推理；DeepMind 把 Signal 验证到机器码；微软说 10 个神经元就能埋后门 |
 | 2026-11-10 | [AI-industry-hotspots-2026-11-10.md](./AI-industry-hotspots-2026-11-10.md) | Claude Fable 5.2 降价还刷榜；Meta 0.1 美刀/百万 token 卷到地板；3 天证明量子猜想；Anthropic IPO 路演准时开摆 |
 | 2026-11-09 | [AI-industry-hotspots-2026-11-09.md](./AI-industry-hotspots-2026-11-09.md) | Anthropic IPO 草案凌晨撤回，七巨头砸 260 亿兜底；OpenAI 又买一家公司；Jensen Huang 两边活动都不去了 |
 | 2026-11-08 | [AI-industry-hotspots-2026-11-08.md](./AI-industry-hotspots-2026-11-08.md) | OpenAI $11B 落地但比目标少一半；GPT-6 Cyber 标成 Critical 才敢放；Meta 悄悄收购 |
